@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 👀 Now I'm looking for a job 
 - 👯 I’m looking to collaborate on pair programming with an experienced Data Scientist or Python Developer
 - 💞️ Interested in machine learning 
-- 📫 How to reach me: [Telegram](https://t.me/chtozaserikova), [Twitter](https://twitter.com/chtozaserikova), [email](serikova1s@yandex.ru)
+- 📫 How to reach me: [Telegram](https://t.me/chtozaserikova), [Twitter](https://twitter.com/chtozaserikova)
