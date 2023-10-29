@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href=https://hh.ru/resume/0b2899fcff09e9b4010039ed1f4a6730423771 target="_blank">Sveta</a> 
+<h1 align="center">Hi there, I'm <a href=hhttps://drive.google.com/file/d/15uORcLvNAGdTIoJa4m5eprdC1VBiSwZ9/view?usp=sharing target="_blank">Sveta</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, ML-engineer from Moscow, Russia 🇷🇺</h3>
 
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Svetlana Serikova
 - 🌱 I’m currently learning Engineering tech stack and Computer Vision
 - 👀 Now I'm looking for a job 
-- 👯 I’m looking to collaborate on pair programming with an experienced Data Scientist or Python Developer
+- 👯 I’m looking to collaborate on pair programming with an experienced Data Scientist or ML-Developer
 - 💞️ Interested in machine learning 
 - 📫 How to reach me: [Telegram](https://t.me/chtozaserikova), [Twitter](https://twitter.com/chtozaserikova)
